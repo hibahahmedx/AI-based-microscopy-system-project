@@ -1,0 +1,5 @@
+malaria dataset link:
+https://www.tensorflow.org/datasets/catalog/malaria
+leukemia dataset link:
+https://www.cancerimagingarchive.net/collection/c-nmc-2019/
+blood cell counter dataset:
